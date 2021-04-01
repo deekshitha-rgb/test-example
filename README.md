@@ -1,2 +1,3 @@
 # test-example
-test example repo
+test example repo for git command demonstrations
+
